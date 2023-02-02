@@ -1,6 +1,6 @@
 # Authentication and Security 
 
-This repository teaches you how to secure user information for your project at various levels and about authentication.
+This repository inform you how to secure user information for your project at various levels and about authentication.
 
 ---
 <p align="center">
